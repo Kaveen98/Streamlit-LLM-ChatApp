@@ -57,7 +57,7 @@ for msg in st.session_state["messages"]:
 
 # Collect User Prompt
 prompt = st.chat_input(
-    "type you message..."
+    "Ask me anything..."
 )
 
 # If New User Prompt was Submitted
