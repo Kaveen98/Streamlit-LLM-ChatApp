@@ -35,11 +35,11 @@ local_llm = ChatOpenAI(
 # GUI
 ##############################
 
-st.title("Ask from LLM...")
+st.title("Chat with LLM...")
 
 # checkbox to switch from small LLM to large
 Use_Qwen3_30B_A3B = st.checkbox(
-    "Use Qwen3 30B A3B",
+    "Switch to the cloud model",
     # using small LLM by default
     value = False 
 )

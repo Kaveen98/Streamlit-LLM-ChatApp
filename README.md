@@ -88,7 +88,7 @@ docker-compose up --build
 ## ✅ Usage
 
 1. Type your message in the chat.
-2. Toggle the "Use Qwen3 30B A3B" checkbox to switch between local and cloud models.
+2. Toggle the "Switch to the cloud model" checkbox to switch between local and cloud models.
 3. The app remembers previous messages for contextual replies.
 
 ---
